@@ -1,5 +1,4 @@
-# Hugo build files
-/public/
+# Hugo build files (keep public directory but ignore some generated files)
 /resources/_gen/
 
 # Hugo executable
