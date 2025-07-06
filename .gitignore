@@ -1,25 +1,6 @@
-# Hugo build files (keep public directory but ignore some generated files)
-/resources/_gen/
-
-# Hugo executable
-hugo.exe
-hugo_*.zip
-
-# OS generated files
+public/
+.hugo_build.lock
+node_modules/
+*.log
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Temporary files
-*.tmp
-*.temp

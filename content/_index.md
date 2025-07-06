@@ -13,7 +13,7 @@ In this workshop, you will deploy a **dynamic e-commerce website** using the Hug
 
 Additionally, you will be guided through **setting up a static website on S3 with full SSL (HTTPS) support** to enhance security and professionalism, ensuring your website serves customers globally with confidence.
 
-![ConnectPrivate](/images/arc-log.png) 
+![fcjfashionshop_drawio](/images/fcjfashionshop_drawio.png) 
 
 ### Workshop Objectives
 
